@@ -33,10 +33,11 @@
             android:hint="Name"/>
 
         <EditText
+            android:id="@+id/editTextCountry"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editTextCountry"
-            android:hint="Country"/>
+            android:hint="Country"
+            tools:ignore="TouchTargetSizeCheck" />
 
         <EditText
             android:layout_width="match_parent"

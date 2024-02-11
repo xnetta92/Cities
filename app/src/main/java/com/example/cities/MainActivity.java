@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private LinearLayout linearLayoutForm;
     private ListView listViewData;
     private List <Cities> city = new ArrayList<>();
-    private String url = "";
+    private String url = "https://retoolapi.dev/nc68vM/cities";
 
 
 
